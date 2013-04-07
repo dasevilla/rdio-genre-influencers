@@ -1,0 +1,4 @@
+pyechonest==7.1.0
+requests==1.2.0
+requests-oauth==0.4.1
+wsgiref==0.1.2
