@@ -4,7 +4,7 @@
 ## Problem
 
 
-Your friends on Rdio aren't listening to comedy and so it doesn't show up in your heavy rotation. It would be nice if there was a way to find Rdio users do who listen to comedy.
+Your friends on Rdio aren't listening to comedy and so it doesn't show up in your heavy rotation. It would be nice if there was a way to find Rdio users who listen to comedy.
 
 
 ## Method
